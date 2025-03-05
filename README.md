@@ -1,2 +1,2 @@
-# itib labs
-neural network
+# neural network
+
